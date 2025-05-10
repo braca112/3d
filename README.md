@@ -1,6 +1,6 @@
 # 3D Model Generator
 
-Generate amazing 3D models from text descriptions using AI.
+Generate amazing 3D models from text descriptions using AI1.
 
 ## Features
 
